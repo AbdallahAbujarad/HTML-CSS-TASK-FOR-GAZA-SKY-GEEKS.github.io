@@ -83,7 +83,7 @@ body {
 
 /* Main Page */
 .main-page {
-    background-image: url(/imgs/boat\ nav.jpg);
+    background-image: url(../imgs/boatnav.jpg);
     background-size: cover;
 }
 .main-page .nav {
@@ -249,19 +249,19 @@ body {
     gap: 10px;
 }
 .trans .container .figs .f1 {
-    background-image: url(/imgs/liquid.jpg);
+    background-image: url(../imgs/liquid.jpg);
 }
 .trans .container .figs .f2 {
-    background-image: url(/imgs/solurions.jpg);
+    background-image: url(../imgs/solurions.jpg);
 }
 .trans .container .figs .f3 {
-    background-image: url(/imgs/truck.jpg);
+    background-image: url(../imgs/truck.jpg);
 }
 .trans .container .figs .f4 {
-    background-image: url(/imgs/warehouse.jpg);
+    background-image: url(../imgs/warehouse.jpg);
 }
 .trans .container .figs .f5 {
-    background-image: url(/imgs/ship.jpg);
+    background-image: url(../imgs/ship.jpg);
 }
 .trans .container .figs .figure {
     position: relative;
@@ -378,15 +378,15 @@ body {
     font-size: 12px;
 }
 .team .container .p1 {
-    background-image: url(/imgs/p1.jpg);
+    background-image: url(../imgs/p1.jpg);
     background-size: cover;
 }
 .team .container .p2 {
-    background-image: url(/imgs/p2.jpg);
+    background-image: url(../imgs/p2.jpg);
     background-size: cover;
 }
 .team .container .p3 {
-    background-image: url(/imgs/p3.jpg);
+    background-image: url(../imgs/p3.jpg);
     background-size: cover;
 }
 
@@ -411,7 +411,7 @@ body {
     align-items: center;
 }
 .finish .container .img {
-    background-image: url(/imgs/plane.jpg);
+    background-image: url(../imgs/plane.jpg);
     background-size: cover;
     min-width: 60%;
     height: 70%;
